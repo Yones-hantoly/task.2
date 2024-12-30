@@ -1,0 +1,9 @@
+.parent{
+display: flex;
+flex-wrap: wrap;
+text-align: center; 
+}
+.children{
+ width: 30%; 
+}
+svg{width: 50px; background-color: orange;}
